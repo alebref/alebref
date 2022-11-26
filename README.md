@@ -3,3 +3,5 @@
 - 🌱 I’m currently learning dev ... (until I'm dead !)
 - 💞️ I’m looking to collaborate on dev
 - 📫 How to reach me : contact@alebref.fr
+
+Oh yes ! Also, I'm French !
